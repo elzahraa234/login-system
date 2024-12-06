@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    background-color: #24353F;
+}
+
+.signup-card{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+
+.signup-card h1{
+    color: #17a2b8;
+}
+
+input{
+    background-color: transparent !important;
+    color: #fff !important;
+}
